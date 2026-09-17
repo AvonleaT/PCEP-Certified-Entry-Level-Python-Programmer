@@ -1,0 +1,5 @@
+print ("Carry on my Wayward son\nthere'll be peace when you are done")
+print ()
+print ("Lay your weary head to rest")
+print ()
+print ("Don't you cry no more")
