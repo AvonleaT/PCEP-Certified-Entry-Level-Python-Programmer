@@ -8,3 +8,4 @@ else:
 
 tax = round(tax, 0)
 print("The tax is:", tax, "thalers")
+
